@@ -1,0 +1,22 @@
+{
+  "name": "3 Grãos",
+  "short_name": "3 Grãos",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#865d39",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/hkYmz26/3-graos-marmitaria-saudavel.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "https://i.ibb.co/hkYmz26/3-graos-marmitaria-saudavel.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ]
+}

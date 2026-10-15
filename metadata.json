@@ -1,0 +1,8 @@
+{
+  "name": "3 Grãos",
+  "description": "3 Grãos - Sistema de cardápio saudável e pedidos online.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
